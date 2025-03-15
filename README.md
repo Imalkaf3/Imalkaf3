@@ -39,11 +39,3 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** who love
 ### ⚡ Fun Fact
 I love debugging more than coding! 😄
 
-
-### 🌟 Top Repositories
-<a href="https://github.com/YourUsername/Repo1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Repo1&theme=dark" />
-</a>
-<a href="https://github.com/YourUsername/Repo2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Repo2&theme=dark" />
-</a>
