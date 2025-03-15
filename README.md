@@ -38,3 +38,14 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** who love
 
 ### ⚡ Fun Fact
 I love debugging more than coding! 😄
+
+### 🌟 Top Contributed Repositories
+
+| Repository          | Description                | Stars  |
+|---------------------|----------------------------|--------|
+| [EasyRent](#)       | A rental management system | ⭐⭐⭐⭐ |
+| [My-Portfolio](#)   | Personal portfolio website | ⭐⭐⭐   |
+| [Task-Manager](#)   | App to manage tasks easily | ⭐⭐⭐⭐ |
+| [Mern-Blog](#)      | Blogging platform using MERN stack | ⭐⭐ |
+| [Doctor-Patient-App](#) | Healthcare management app  | ⭐⭐⭐   |
+
