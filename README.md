@@ -39,13 +39,10 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** who love
 ### ⚡ Fun Fact
 I love debugging more than coding! 😄
 
-### 🌟 Top Contributed Repositories
-
-| Repository          | Description                | Stars  |
-|---------------------|----------------------------|--------|
-| [EasyRent](#)       | A rental management system | ⭐⭐⭐⭐ |
-| [My-Portfolio](#)   | Personal portfolio website | ⭐⭐⭐   |
-| [Task-Manager](#)   | App to manage tasks easily | ⭐⭐⭐⭐ |
-| [Mern-Blog](#)      | Blogging platform using MERN stack | ⭐⭐ |
-| [Doctor-Patient-App](#) | Healthcare management app  | ⭐⭐⭐   |
-
+### 🌟 Top Repositories
+<a href="https://github.com/Imalkaf3/YourRepo1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Imalkaf3&repo=YourRepo1&theme=dark" />
+</a>
+<a href="https://github.com/Imalkaf3/YourRepo2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Imalkaf3&repo=YourRepo2&theme=dark" />
+</a>
