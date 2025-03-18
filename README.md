@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** who love
 ![Imalka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imalkaf3&show_icons=true&theme=radical)
 
 ---
-### 🔥 GitHub Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Imalkaf3&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Imalkaf3&theme=dark)
+
 
 
 ### 🚀 Top Languages
